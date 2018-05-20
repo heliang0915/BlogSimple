@@ -1,12 +1,21 @@
 {
   "name": "vue-server",
   "version": "1.0.0",
-  "description": "Blog-Simple",
+  "description": "vue-server",
   "main": "index.js",
   "scripts": {
-    "start": "export NODE_ENV=production&&node server/app.js"
+    "start": "export NODE_ENV=production&&node dist/server/server.js",
+    "cpDir":"cp -R ./server/template ./dist/server/template &&cp -R ./server/logs ./dist/server/logs &&  cp -R ./server/page ./dist/server/page",
+    "build": "rimraf dist && npm run build:client && npm run build:server&&npm run build:node&& npm run cpDir&&npm run start",
+    "build:node": "export NODE_ENV=production&&webpack --config build/webpack.node.config.js --progress --hide-modules ",
+    "build:client": "export NODE_ENV=production&&webpack --config build/webpack.client.config.js --progress --hide-modules",
+    "build:server": "export NODE_ENV=production&&webpack --config build/webpack.server.config.js --progress --hide-modules",
+    "dev": "rimraf dist && npm run dev_bundle_client&&npm run dev_bundle_server",
+    "dev_server": "cross-env NODE_ENV=development&& nodemon server/app.js",
+    "dev_bundle_client": "cross-env NODE_ENV=development&& webpack --config build/webpack.client.config.js --watch --progress --hide-modules",
+    "dev_bundle_server": "cross-env NODE_ENV=development&& webpack --config build/webpack.server.config.js --watch --progress --hide-modules"
   },
-  "author": "heliang",
+  "author": "heliang0915",
   "license": "ISC",
   "dependencies": {
     "asset-require-hook": "^1.1.0",

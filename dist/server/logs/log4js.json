@@ -1,0 +1,15 @@
+{
+  "appenders":
+  [
+    {
+      "category":"console",
+      "type":"console"
+    }
+  ],
+  "replaceConsole": true,
+  "levels":
+  {
+    "log_info":"ALL",
+    "console": "ALL"
+  }
+}
