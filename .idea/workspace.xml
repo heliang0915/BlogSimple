@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf4095f9-0782-4a78-b3f8-9d6834bff711" name="Default" comment="" />
+    <list default="true" id="bf4095f9-0782-4a78-b3f8-9d6834bff711" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/dist/0.fb8bb40ad4061ab889d9.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/app.07cbc8d9964cfa22ed25.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/logo2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/common.07cbc8d9964cfa22ed25.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/libs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/server/logs/log4js.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/server/logs/logs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/server/page/500.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/server/server.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/server/template/template.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vue-ssr-client-manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vue-ssr-server-bundle.json" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -135,7 +151,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4972000" />
+    <option name="totallyTimeSpent" value="5100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -150,8 +166,8 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
