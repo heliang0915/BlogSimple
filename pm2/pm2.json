@@ -3,7 +3,7 @@
  */
 {
   "name"             : "bloghome",
-  "script"           : "sh startup.sh",
+  "script"           : "sh ./startup.sh",
   "log_date_format"  : "YYYY-MM-DD HH:mm:ss Z",
   "error_file"       : "pm2/logs/error.log",
   "out_file"         : "pm2/logs/access.log",
