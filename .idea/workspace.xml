@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baa12e98-1ed4-4514-a9e2-776361b986ad" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.nuxt/dist/app.1b03c8099610a4fc262a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/dist/manifest.d8e78905fcd4afc870dc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nuxt/dist/pages/detail/_id.61a239200e5b9c7c572c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pm2/logs/access.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pm2/logs/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/index.spa.html" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/index.spa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server-bundle.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server-bundle.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/vue-ssr-client-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/vue-ssr-client-manifest.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pm2.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pm2/pm2.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nuxt</find>
+      <find>log4js.json</find>
+      <find>template</find>
+      <find>logs</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/server.js" />
+        <option value="$PROJECT_DIR$/pages/index.vue" />
+        <option value="$PROJECT_DIR$/nuxt.config.js" />
+        <option value="$PROJECT_DIR$/dist/server.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="225" />
+    <option name="y" value="25" />
+    <option name="width" value="1440" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BlogSimple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlogSimple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlogSimple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlogSimple" type="462c0819:PsiDirectoryNode" />
+              <item name="pm2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baa12e98-1ed4-4514-a9e2-776361b986ad" name="Default" comment="" />
+      <created>1526657211713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526657211713</updated>
+    </task>
+    <task id="LOCAL-00001" summary="提交代码">
+      <created>1526823753919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526823753920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="合并">
+      <created>1529249223030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529249223030</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13662376" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5028612" side_tool="true" weight="0.58041114" />
+      <window_info anchor="right" id="Redis Servers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49713877" visible="true" weight="0.63151515" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交代码" />
+    <MESSAGE value="合并" />
+    <option name="LAST_COMMIT_MESSAGE" value="合并" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pm2/pm2.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/lazyload.js" />
+    <entry file="file://$PROJECT_DIR$/server/server.js" />
+    <entry file="file://$PROJECT_DIR$/dist/0.server.js" />
+    <entry file="file://$PROJECT_DIR$/pages/index.vue" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/.editorconfig" />
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/views/app.template.html" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/client.js" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/dist/vendor.44ad11228aaf9c0bb691.js" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/dist/index.ssr.html" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/dist/index.spa.html" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/dist/app.4c032a877ef045562bc8.js" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/dist/pages/index.812318fb1a11694f356f.js" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/components/no-ssr.js" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/middleware.js" />
+    <entry file="file://$PROJECT_DIR$/nuxt.config.js" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/App.js" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/empty.js" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/index.js" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/router.js" />
+    <entry file="file://$PROJECT_DIR$/.nuxt/server.js" />
+    <entry file="file://$PROJECT_DIR$/server/template/template.html" />
+    <entry file="file://$PROJECT_DIR$/server/page/500.html" />
+    <entry file="file://$PROJECT_DIR$/server/logs/logs.js" />
+    <entry file="file://$PROJECT_DIR$/logs/access.log" />
+    <entry file="file://$PROJECT_DIR$/dist/vue-ssr-client-manifest.json" />
+    <entry file="file://$PROJECT_DIR$/dist/logs/logs.js" />
+    <entry file="file://$PROJECT_DIR$/dist/server.js" />
+    <entry file="file://$PROJECT_DIR$/build/vue-loader.config.js" />
+    <entry file="file://$PROJECT_DIR$/dist/assets/images/bg2.jpg" />
+    <entry file="file://$PROJECT_DIR$/dist/assets/fonts/iconfont.svg" />
+    <entry file="file://$PROJECT_DIR$/dist/server/server.js" />
+    <entry file="file://$PROJECT_DIR$/dist/server/template/template.html" />
+    <entry file="file://$PROJECT_DIR$/dist/server/logs/log4js.json" />
+    <entry file="file://$PROJECT_DIR$/dist/server/logs/logs.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pm2/pm2.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
