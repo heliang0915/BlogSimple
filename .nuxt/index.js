@@ -13,6 +13,7 @@ import { setContext, getLocation, getRouteData } from './utils'
 
 /* Plugins */
 import nuxt_plugin_vueeditor_bf3193a6 from 'nuxt_plugin_vueeditor_bf3193a6' // Source: ../plugins/vue-editor.js (ssr: false)
+import nuxt_plugin_seo_3c142120 from 'nuxt_plugin_seo_3c142120' // Source: ../plugins/seo.js
 
 
 // Component: <no-ssr>
@@ -134,6 +135,7 @@ async function createApp (ssrContext) {
 
   // Plugin execution
   
+  if (typeof nuxt_plugin_seo_3c142120 === 'function') await nuxt_plugin_seo_3c142120(app.context, inject)
   
   if (process.browser) { 
     if (typeof nuxt_plugin_vueeditor_bf3193a6 === 'function') await nuxt_plugin_vueeditor_bf3193a6(app.context, inject)
