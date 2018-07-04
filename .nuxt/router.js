@@ -3,11 +3,11 @@ import Router from 'vue-router'
 
 Vue.use(Router)
 
-const _cc347262 = () => import('../pages/layout/blog-rg.vue' /* webpackChunkName: "pages/layout/blog-rg" */).then(m => m.default || m)
-const _1b8a3a35 = () => import('../pages/layout/blog-footer.vue' /* webpackChunkName: "pages/layout/blog-footer" */).then(m => m.default || m)
-const _3cbc9e27 = () => import('../pages/layout/blog-header.vue' /* webpackChunkName: "pages/layout/blog-header" */).then(m => m.default || m)
-const _d5fc8e20 = () => import('../pages/detail/_id.vue' /* webpackChunkName: "pages/detail/_id" */).then(m => m.default || m)
-const _6f4df02a = () => import('../pages/_page.vue' /* webpackChunkName: "pages/_page" */).then(m => m.default || m)
+const _581c185c = () => import('../pages/layout/blog-rg.vue' /* webpackChunkName: "pages/layout/blog-rg" */).then(m => m.default || m)
+const _4bf2fd42 = () => import('../pages/layout/blog-footer.vue' /* webpackChunkName: "pages/layout/blog-footer" */).then(m => m.default || m)
+const _6d256134 = () => import('../pages/layout/blog-header.vue' /* webpackChunkName: "pages/layout/blog-header" */).then(m => m.default || m)
+const _2f10d8fd = () => import('../pages/detail/_id.vue' /* webpackChunkName: "pages/detail/_id" */).then(m => m.default || m)
+const _6af78806 = () => import('../pages/_page.vue' /* webpackChunkName: "pages/_page" */).then(m => m.default || m)
 
 
 
@@ -69,27 +69,27 @@ export function createRouter () {
     routes: [
 		{
 			path: "/layout/blog-rg",
-			component: _cc347262,
+			component: _581c185c,
 			name: "layout-blog-rg"
 		},
 		{
 			path: "/layout/blog-footer",
-			component: _1b8a3a35,
+			component: _4bf2fd42,
 			name: "layout-blog-footer"
 		},
 		{
 			path: "/layout/blog-header",
-			component: _3cbc9e27,
+			component: _6d256134,
 			name: "layout-blog-header"
 		},
 		{
 			path: "/detail/:id?",
-			component: _d5fc8e20,
+			component: _2f10d8fd,
 			name: "detail-id"
 		},
 		{
 			path: "/:page?",
-			component: _6f4df02a,
+			component: _6af78806,
 			name: "page"
 		}
     ],
